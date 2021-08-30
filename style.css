@@ -1,0 +1,83 @@
+body{
+    background-color: #F3F1FF;
+}
+.leader-menu{
+    background: #562EFF;
+}
+.navbar{
+    width: 870px;
+}
+li.nav-item{
+    margin: auto;
+}
+.navbar-nav .nav-item .nav-link{
+    color: white;
+}
+.logo{
+    width: 40px;
+}
+main{
+    margin: 50px auto;
+    max-width: 870px;
+    background-color: white;
+    border-radius: 10px 70px 10px 70px;
+}
+.t-player{
+    color: #562EFF;
+}
+.player-name{
+    color: black;
+    margin: auto 10px;
+}
+hr{
+    margin: auto;
+    width: 807px;
+}
+.blogs-image{
+    width: 177px;
+    height: 177px;
+}
+.written-by{
+    color: #562EFF;
+}
+.written-by span{
+    color: #9F9F9F;
+}
+footer{
+    margin: 50px auto;
+    max-width: 870px;
+    background-color: white;
+    border-radius: 10px 70px 10px 70px;
+}
+.col.courses{
+    max-width: 252.42px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px gray;
+}
+.course-image{
+    width: 224px;
+}
+.course-by{
+    color: #ED6B4F;
+}
+.rating{
+    color: #A2A2A2;
+}
+.time{
+    color: #FF4A60;
+}
+.rate-image{
+    width: 12.39px;
+    height: 11.81px;
+}
+.clock{
+    width: 20.03px;
+}
+.time{
+    background: #FFE4E8;
+    padding: 15px 15px;
+    border-radius: 40px;
+}
+.latest-courses{
+    padding-bottom: 80px;
+}
