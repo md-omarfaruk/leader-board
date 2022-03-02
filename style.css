@@ -25,6 +25,10 @@ main{
 .t-player{
     color: #562EFF;
 }
+.player-img{
+    width: 56px;
+    height: 56px;
+}
 .player-name{
     color: black;
     margin: auto 10px;
