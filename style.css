@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 body{
     background-color: #F3F1FF;
+    font-family: 'Poppins', sans-serif;
 }
 .leader-menu{
     background: #562EFF;
